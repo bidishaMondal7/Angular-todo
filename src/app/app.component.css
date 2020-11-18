@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(199, 105, 105);
+}
+.container h1 {
+    justify-content: center;
+    text-align: center;
+}
